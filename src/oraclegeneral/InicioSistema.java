@@ -12,6 +12,7 @@ import views.Login;
  * @author Erik David Zubia Hernandez.
  * @since 16/05/2015
  * @version 1.0
+ * 7 were the horocruxes that Harry had to find
  */
 public class InicioSistema {
     
