@@ -7,6 +7,7 @@ import models.Producto;
 import models.Usuario;
 import views.Login;
 /**
+ * --Cambio generado por A1--
  * Clase que iniciara el sistema y verificara la existencia del usuario de la base de datos que se 
  * utilizara a lo largo de la ejecucion.
  * @author Erik David Zubia Hernandez.
